@@ -1,6 +1,8 @@
 # screen_gestures_author_classification
 This is upgraded version code for my Master Thesis
 (https://drive.google.com/file/d/1TqnB2m4mjir9zcGYWwzK8PXVIojTvPws/view?usp=sharing)
+
+
 ![obraz](https://user-images.githubusercontent.com/75049907/145417010-b7767d4c-e1d2-4c14-8b13-9e0cdff89e0b.png)
 
 
