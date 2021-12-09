@@ -1,4 +1,4 @@
-# screen_gestures_author_classification
+# Screen gestures and their authors classification
 This is upgraded version code for my Master Thesis
 (https://drive.google.com/file/d/1TqnB2m4mjir9zcGYWwzK8PXVIojTvPws/view?usp=sharing)
 
